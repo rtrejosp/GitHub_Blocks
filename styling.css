@@ -1,0 +1,55 @@
+.container {
+    width: 900px;
+    height: 900px;
+    margin: auto;
+    background-color:lightgrey;
+    text-align: center;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.blue{
+    width: 850px;
+    height: 250px;
+    margin: 20px;
+    background-color: skyblue;
+}
+
+.blue img{
+    width: 250px;
+    height: 200px;
+    margin: 25px 20px 20px 10px;
+}
+
+
+.pink{
+    width: 850px;
+    height: 250px;
+    margin: 20px;
+    background-color: lightpink;
+}
+
+.pink img{
+    width: 250px;
+    height: 200px;
+    margin: 30px 85px 30px 85px;
+}
+
+
+.white{
+    width: 850px;
+    height: 250px;
+    margin: 20px;
+    background-color: white;
+}
+
+.white img{
+    width: 250px;
+    height: 250px;
+}
+
+p{
+    font-family: "Lucida Console", "Courier New", monospace;
+}

@@ -1,5 +1,5 @@
 .container {
-    width: 900px;
+    width: 1000px;
     height: 900px;
     margin: auto;
     background-color:lightgrey;
@@ -11,9 +11,11 @@ h1{
 }
 
 .blue{
-    width: 850px;
+    width: 950px;
     height: 250px;
     margin: 20px;
+    display: flex;
+    justify-content: space-between;
     background-color: skyblue;
 }
 
@@ -25,9 +27,11 @@ h1{
 
 
 .pink{
-    width: 850px;
+    width: 950px;
     height: 250px;
     margin: 20px;
+    display: flex;
+    justify-content: space-between;
     background-color: lightpink;
 }
 
@@ -39,9 +43,11 @@ h1{
 
 
 .white{
-    width: 850px;
+    width: 950px;
     height: 250px;
     margin: 20px;
+    display: flex;
+    justify-content: space-between;
     background-color: white;
 }
 
